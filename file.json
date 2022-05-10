@@ -1,0 +1,32 @@
+[
+    {
+        "EPOC": 1646559204,
+        "ip_address": "192.168.1.2",
+        "upbytes": 30,
+        "downbytes": 40
+    },
+    {
+        "EPOC": 1646559205,
+        "ip_address": "192.168.1.3",
+        "upbytes": 27,
+        "downbytes": 41
+    },
+    {
+        "EPOC": 1646559206,
+        "ip_address": "192.168.1.2",
+        "upbytes": 28,
+        "downbytes": 42
+    },
+    {
+        "EPOC": 1646559207,
+        "ip_address": "192.168.1.4",
+        "upbytes": 30,
+        "downbytes": 45
+    },
+    {
+        "EPOC": 1646559208,
+        "ip_address": "192.168.1.5",
+        "upbytes": 30,
+        "downbytes": 44
+    }
+]
